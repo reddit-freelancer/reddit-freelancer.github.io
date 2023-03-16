@@ -5,10 +5,10 @@ title: Freelancer Web Developer Reddit
 
 # Freelancer Web Developer Reddit 
 
-Hi, I'm Lukasz. An experienced freelance web developer who brings his passion for the digital world to his work. 
+Hi, I'm Lukasz. An experienced freelance <a href="https://en.wikipedia.org/wiki/Web_development" target="_blank">web developer</a> who brings his passion for the digital world to his work. 
 I have extensive knowledge in website and web application development and I am able to deliver customized solutions for various industries and clients.
 
-I also love to spend my time on <a href="https://en.wikipedia.org/wiki/Reddit">Reddit</a>. Since I'm a freelance web developer I spend a lot of times in the web development subreddit, or other web development related subreddits. I help redditors with questions regarding web development, JavaScript or CSS. The funny thing is that I've already met so many lovely people through Reddit. For some, I even have created websites already. That's why I refer to myself as the freelance web developer from Reddit. Because I spend so much time on there.
+I also love to spend my time on <a href="https://en.wikipedia.org/wiki/Reddit" target="_blank">Reddit</a>. Since I'm a <a href="https://en.wikipedia.org/wiki/Freelancer" target="_blank">freelance</a> web developer I spend a lot of times in the web development subreddit, or other web development related subreddits. I help redditors with questions regarding web development, JavaScript or CSS. The funny thing is that I've already met so many lovely people through Reddit. For some, I even have created websites already. That's why I refer to myself as the freelance web developer from Reddit. Because I spend so much time on there.
 
 Whatalso sets me apart from other web developers is my preference for collaborating with people from Reddit. I appreciate the dynamic and creative nature of this community and I'm always willing to incorporate their ideas and opinions into my work. That means I work with other developers and designers whom I've met on Reddit.
 
